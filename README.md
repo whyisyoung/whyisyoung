@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **whyisyoung/whyisyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## This is Limin Yang
+### This is Limin Yang
 
 I'm a PhD student at University of Illinois at Urbana-Champaign, working with Dr. [Gang Wang](https://gangw.cs.illinois.edu/) on data-driven security.
