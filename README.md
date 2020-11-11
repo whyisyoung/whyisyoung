@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### This is Limin Yang
 
-I'm a second-year PhD student at University of Illinois at Urbana-Champaign, working with Dr. [Gang Wang](https://gangw.cs.illinois.edu/) on data-driven security.
+I'm a second-year PhD student at UIUC, working with Dr. [Gang Wang](https://gangw.cs.illinois.edu/) on data-driven security.
 
 Currently, I'm working on malware classification and explainable AI on security applications.
 
-Previously, I've done some projects related to concept drift detection and explanation, VirusTotal reliability, phishing detection, IoT authentication system (Amazon Alexa and Google Home), and vulnerability reproducibility. Four of them have been published in top-tier conferences like USENIX Security and IMC.
+Previously, I've done some projects related to concept drift detection and explanation [USENIX Sec'21], VirusTotal reliability [[USENIX Sec'20](https://liminyang.web.illinois.edu/data/USENIX20_VirusTotal.pdf)], IoT authentication system (Amazon Alexa and Google Home) [[SafeThings'20](https://liminyang.web.illinois.edu/data/SafeThings20_Alexa.pdf)], phishing detection [[IMC'19](https://liminyang.web.illinois.edu/data/IMC19_VirusTotal.pdf)], and vulnerability reproducibility [[USENIX Sec'18](https://liminyang.web.illinois.edu/data/USENIX18_VulReproduction.pdf)]. 
 
-`I'm looking for a SDE/research internship for 2021 Summer.`
+`I'm looking for a security / deep learning internship for 2021 Summer.`
