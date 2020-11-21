@@ -21,6 +21,6 @@ I'm a second-year PhD student at UIUC, working with Dr. [Gang Wang](https://gang
 
 Currently, I'm working on malware classification and explainable AI on security applications.
 
-Previously, I've done some projects related to concept drift detection and explanation [USENIX Sec'21], VirusTotal reliability [[USENIX Sec'20](https://liminyang.web.illinois.edu/data/USENIX20_VirusTotal.pdf)], IoT authentication system (Amazon Alexa and Google Home) [[SafeThings'20](https://liminyang.web.illinois.edu/data/SafeThings20_Alexa.pdf)], phishing detection [[IMC'19](https://liminyang.web.illinois.edu/data/IMC19_VirusTotal.pdf)], and vulnerability reproducibility [[USENIX Sec'18](https://liminyang.web.illinois.edu/data/USENIX18_VulReproduction.pdf)]. 
+Previously, I've done some projects related to concept drift detection and explanation [[USENIX Sec'21](https://liminyang.web.illinois.edu/data/USENIX21_CADE.pdf)], VirusTotal reliability [[USENIX Sec'20](https://liminyang.web.illinois.edu/data/USENIX20_VirusTotal.pdf)], IoT authentication system (Amazon Alexa and Google Home) [[SafeThings'20](https://liminyang.web.illinois.edu/data/SafeThings20_Alexa.pdf)], phishing detection [[IMC'19](https://liminyang.web.illinois.edu/data/IMC19_VirusTotal.pdf)], and vulnerability reproducibility [[USENIX Sec'18](https://liminyang.web.illinois.edu/data/USENIX18_VulReproduction.pdf)]. 
 
 `I'm looking for a security / deep learning internship for 2021 Summer.`
