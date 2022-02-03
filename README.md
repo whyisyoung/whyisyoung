@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### This is Limin Yang
 
-I'm a third-year PhD candidate at UIUC, working with Dr. [Gang Wang](https://gangw.cs.illinois.edu/) on data-driven security.
+I'm a fourth-year PhD candidate at UIUC, working with Dr. [Gang Wang](https://gangw.cs.illinois.edu/) on machine learning security.
 
-Currently, I'm working on malware classification and explainable AI on security applications.
+Currently, I'm working on backdoor attack and network intrusion detection.
 
 Previously, I've done some projects related to concept drift detection and explanation [[USENIX Sec'21](https://liminyang.web.illinois.edu/data/USENIX21_CADE.pdf)],  VirusTotal reliability [[USENIX Sec'20](https://liminyang.web.illinois.edu/data/USENIX20_VirusTotal.pdf)], IoT authentication system (Amazon Alexa and Google Home) [[SafeThings'20](https://liminyang.web.illinois.edu/data/SafeThings20_Alexa.pdf)], phishing detection [[IMC'19](https://liminyang.web.illinois.edu/data/IMC19_VirusTotal.pdf)], and vulnerability reproducibility [[USENIX Sec'18](https://liminyang.web.illinois.edu/data/USENIX18_VulReproduction.pdf)]. I also collaborated with [Blue Hexagon](https://bluehexagon.ai) to release a Windows PE malware dataset [[DLS'21](https://liminyang.web.illinois.edu/data/DLS21_BODMAS.pdf)].
 
-I did an internship at TikTok as a Security Engineering Intern this past summer, working on augmenting Email spam detection with rule system and user actions.
+I did an internship at TikTok as a Security Engineering Intern in 2021 summer, working on augmenting Email spam detection with rule system and user actions.
