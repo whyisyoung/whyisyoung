@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ### This is Limin Yang
 
-I'm a fourth-year PhD candidate at UIUC, working with Dr. [Gang Wang](https://gangw.cs.illinois.edu/) on machine learning security.
+**I'm looking for a full time job of security/ML engineer in 2023 summer**. 
+
+I'm a fourth-year CS PhD candidate at UIUC, working with Dr. [Gang Wang](https://gangw.cs.illinois.edu/) on machine learning security.
 
 Currently, I'm working on backdoor attack and network intrusion detection.
 
