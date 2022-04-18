@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### This is Limin Yang
-
-**I'm looking for a full time job of security/ML engineer in 2023 summer**. 
+```ruby
+I'm looking for a full time job of security/ML engineer, starting from 2023 summer.
+```
 
 I'm a fourth-year CS PhD candidate at UIUC, working with Dr. [Gang Wang](https://gangw.cs.illinois.edu/) on machine learning security.
 
