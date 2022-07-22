@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### This is Limin Yang
 ```ruby
-I'm looking for a full time job of SDE/ML engineer, starting from 2023 summer.
+I'm looking for a full time job of SDE/ML engineer or research scientist, starting from 2023 summer.
 ```
 
 I'm a fourth-year CS PhD candidate at UIUC, working with Dr. [Gang Wang](https://gangw.cs.illinois.edu/) on machine learning security.
